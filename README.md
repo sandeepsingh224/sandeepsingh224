@@ -4,6 +4,7 @@
 
 ### I have technical experience and interest in:
 * Deep Learning
+* Web development
 * Machine Learning
 * Natural Language Processing
 * MLOps
