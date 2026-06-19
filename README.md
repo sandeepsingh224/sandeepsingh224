@@ -3,14 +3,12 @@
 
 
 ### I have technical experience and interest in:
-* Deep Learning
-* Web development
 * Machine Learning
+* Deep Learning
 * Natural Language Processing
-* MLOps
-* Docker
-* FastAPI
-* AWS/Azure
+* Generative AI
+* Agentic AI
+* AWS
 
 
 <h3 align="left">Languages and Tools:</h3>
